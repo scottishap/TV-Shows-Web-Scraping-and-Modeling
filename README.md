@@ -1,7 +1,7 @@
 # TV-Shows-Web-Scraping-and-Modeling
 Originally a project at General Assembly
 
-##Technical Report
+## Summary of Findings
 
 **Proposed Question and Sample:**
 
